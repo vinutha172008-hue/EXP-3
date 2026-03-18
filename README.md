@@ -26,6 +26,7 @@ Theory:
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
 •	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
 •	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
+
 PROCEDURE
 •  Place the accessories on the wiring board as per the circuit diagram.
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
@@ -40,9 +41,16 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
+![alt text](<Screenshot 2026-03-18 174918.png>)
 	
 Cross connection: CIRCUIT DIAGRAM:
+![alt text](<Screenshot 2026-03-18 001721.png>)
+
+![alt text](<Screenshot 2026-03-18 175804.png>)
+![alt text](<Screenshot 2026-03-18 175836.png>)
+![alt text](<Screenshot 2026-03-18 175816.png>)
+![alt text](<Screenshot 2026-03-18 175816-1.png>)
+![alt text](<Screenshot 2026-03-18 175816-2.png>)
 
 Tabulation:2
 
